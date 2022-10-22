@@ -1,7 +1,7 @@
 # Instagram-DB-Clone-Project
-For this project, I wanted to replicate the basics of how Instagram stores data in database tables. While I won't be covering every possible table that Instagram uses, I wanted to create a replication of its core principles in order to practice data manipulation and analytics. 
-
-We will need to include:
+For this project, I wanted to replicate the basics of how Instagram stores data in database tables. While I won't be covering every possible table that Instagram uses, I wanted to create a replication of its core principles in order to practice data manipulation and analytics. We will need to include:
+	
+	
 	1. A Table to Store Information On Our Users
 	• Keep in mind that we don't need to store everything, just the main components of a User's information.
 	
